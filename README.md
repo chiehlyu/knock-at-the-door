@@ -1,4 +1,4 @@
 # knock-at-the-door
-Cliff or ladder
+Cliff or ladder.
 
 Opportunity knocks but once.
