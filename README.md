@@ -1,2 +1,4 @@
 # knock-at-the-door
-ladder or cliff
+Cliff or ladder.
+
+Opportunity knocks but once.
